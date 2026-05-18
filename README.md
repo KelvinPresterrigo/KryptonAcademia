@@ -59,13 +59,18 @@ DB_NAME=academia_kripton
 
 
 
-npm install
+Baixe o Express
 ```
+npm install 
 npm install express
 ```
 npm install nodemon (Opcional, para desenvolvimento com hot reload)
 ```
-npm run dev / npm start
+npm install nodemo
+```
+Para rodar o arquivo execute o:
+```
+npm run dev
 ```
 
 > Servidor disponível em: `http://localhost:3000`
